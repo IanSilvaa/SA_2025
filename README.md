@@ -4,4 +4,4 @@ O StockChef é uma solução inteligente e intuitiva para a gestão de estoque d
 
 ## Integrantes
 
-Allyson Felippo, Ian Ferreira, Lucca Alves, Wallace Nunes. ()
+Allyson Felippo, Ian Ferreira, Lucca Alves, Wallace Nunes. (https://github.com/IanSilvaa/SotckChef)
