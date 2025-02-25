@@ -17,19 +17,19 @@ Estoque+: Controle simplificado, resultados ampliados.
 Allyson Felippo, Ian Ferreira, Lucca Alves, Wallace Nunes. (https://github.com/IanSilvaa/SotckChef)
 
 ## funcionalidades
-Gestão de Produtos (Wallace)
+Gestão de Produtos (Wallace)\
 Cadastro, edição, exclusão e listagem de produtos no estoque.
 Responsável por criar a interface e lógica para gerenciar os produtos.
 
-Controle de Estoque (Ian)
+Controle de Estoque (Ian)\
 Registro de entradas e saídas de produtos, mantendo um histórico de movimentações.
 Implementação de alertas para estoque baixo.
 
-Gestão de Fornecedores (Lucca)
+Gestão de Fornecedores (Lucca)\
 Cadastro, edição, exclusão e listagem de fornecedores.
 Gerenciamento de informações como nome, CNPJ/CPF e contato.
 
-Autenticação e Controle de Acesso (Allysson)
+Autenticação e Controle de Acesso (Allysson)\
 Cadastro e login de usuários.
 Implementação de diferentes níveis de acesso (exemplo: administrador e usuário comum).
 Garantia de que apenas usuários autorizados possam modificar ou excluir registros.
@@ -37,15 +37,18 @@ Garantia de que apenas usuários autorizados possam modificar ou excluir registr
 # Requisitos 
 ## Requisitos Funcionais
 
-R1 - O sistema deve permitir o usuário se cadastrar no sistema;
-    Descrição: O sistema deve oferecer uma funcionalidade de cadastro de usuários.
-R2 - O sistema deve permitir o usuário logar no sistema;
-    Descrição: O sistema deve validar o usuário logar no sistema se o mesmo se encontrar com o perfil cadastrado.
-R3 - O sistema deverá exibir os produtos no estoque da empresa;
-    Descrição: O sistema exibirá a listagem de produtos com opção de pesquisa e filtragem dos mesmos.
-R4 - O sistema deve permitir realizar relatórios de estoque;
-    Descrição: Relatórios esses para uma análise de movimentação do estoque
+R1 - O sistema deve permitir o usuário se cadastrar no sistema;\
+    Descrição: O sistema deve oferecer uma funcionalidade de cadastro de usuários.\
+\
+R2 - O sistema deve permitir o usuário logar no sistema;\
+    Descrição: O sistema deve validar o usuário logar no sistema se o mesmo se encontrar com o perfil cadastrado.\
+\
+R3 - O sistema deverá exibir os produtos no estoque da empresa;\
+    Descrição: O sistema exibirá a listagem de produtos com opção de pesquisa e filtragem dos mesmos.\
+\
+R4 - O sistema deve permitir realizar relatórios de estoque;\
+    Descrição: Relatórios esses para uma análise de movimentação do estoque\
 
 # Protótipo de telas de LOGIN e CADASTRO
-![Protótipo de Telas](Protótipo de Tela.jpeg)
+
 <img src='Protótipo de Tela.jpeg'>
